@@ -1,0 +1,9 @@
+Content/32x32-bat-sprite.png - created by bagzie on OpenGameArg.org (https://opengameart.org/content/bat-sprite) and released under OGA-BY 3.0
+
+Content/tree.png - created by FunwithPixels on OpenGameArt.org (https://opengameart.org/content/krook-tree) and released under CC-BY 4.0, CC-BY 3.0, CC-BY-SA 4.0 and CC-BY-SA 3.0
+
+Content/character_pack.png - created by wulax on OpenGameArt.org (https://opengameart.org/content/lpc-medieval-fantasy-character-sprites) and released under CC-BY-SA 3.0, GPL 3.0, and OGA-BY 3.0
+
+Content/fireSprite.png - created by Zabin and Jetrel on OpenGameArt.org (https://opengameart.org/content/camp-fire-animation-for-rpgs-finished) and released under CC-BY-SA 3.0
+
+Content/Black_Ops_One/BlackOpsOne-Regular.ttf - Black Ops One font created by James Grieshaber and Eben Sorkin, released on Google Fonts (https://fonts.google.com/specimen/Black+Ops+One?query=black+) under the Open Font License
